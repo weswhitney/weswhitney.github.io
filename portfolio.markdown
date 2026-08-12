@@ -6,7 +6,7 @@ permalink: /portfolio/
 
 ## [Campspot](https://campspot.com)
 
-I was the #6 contributer to the campspot marketplace app when I left the project in April 2025.
+I was the #6 contributer to the campspot marketplace app after 2 years.
 
 ![Campspot](campspot-portfolio-4.png)
 
