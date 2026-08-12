@@ -5,4 +5,4 @@
 layout: home
 ---
 
-Hi, My name is Wes. I'm a full stack software engineer based in Denver, CO.
+Hi 👋🏻, My name is Wes.
