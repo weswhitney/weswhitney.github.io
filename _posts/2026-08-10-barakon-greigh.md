@@ -8,6 +8,10 @@ tags: [intellectual-property]
 
 ---
 
+![Barakon Greigh](barakon-greigh.png)
+
+_Barakon Greigh_
+
 It was a warm summer morning in West Pentenshire on Craterton and the ground was warm enough to plant beans.
 A man emerged from the backdoor of his Picasso yellow house into his yard. The house was humble and organic
 with one story and glassless windows towards the top of the walls.
